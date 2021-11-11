@@ -1,2 +1,2 @@
 # sy-slim
-Testes SYNAPCOM com framework SLIMPHP
+Testes SY com framework SLIMPHP
